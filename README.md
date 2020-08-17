@@ -6,9 +6,7 @@
   <a href="https://badge.fury.io/gh/JonSn0w%2FGitHubCalendar">
       <img src="https://badge.fury.io/gh/JonSn0w%2FGitHubCalendar.svg" height="21" alt="version" >
   </a>
-  <a href="https://github.com/JonSn0w/GitHubCalendar/issues">
-    <img src="https://img.shields.io/github/issues-raw/JonSn0w/GithubCalendar.svg?maxAge=25920000" height="21" title="Issues">
-  </a>
+
   <a href="https://gitter.im/Atomic-Design-UI/Lobby">
         <img src="https://badges.gitter.im/GithubCalendar/Lobby.svg" height="21" title="Gitter">
   </a>
